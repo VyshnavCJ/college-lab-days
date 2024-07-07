@@ -1,3 +1,2 @@
 # Lab
-lab works made me think of differnet ways to solve a problem practicaly.
-The repo doesn't contain questions for each problem. Conserving for nostalgia purposes :)
+Lab work made me think of different ways to solve problems practically. The repository doesn't contain the questions for each problem. It's being kept for nostalgia purposes :)
